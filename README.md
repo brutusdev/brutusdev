@@ -18,7 +18,7 @@
  <img align="center" alt="Brutus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
  <img align="center" alt="Brutus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
  <img align="center" alt="Brutus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-<img align="center" alt="Brutus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+<img align="center" alt="Brutus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg">
 </div>
 
  ##
